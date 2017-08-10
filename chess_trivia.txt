@@ -1,0 +1,35 @@
+Chess Trivia
+Chess Pieces
+What piece can attack a queen without itself being attacked by her?
+Night
+Queen
+Rook
+Pawn
+1
+Night movement is L shaped. Queen movement is any straight line.
+Chess Rules
+This is how you win the game:
+Stalemate
+Checkmate
+Resign
+Capture the King
+2
+Kings can never be captured only checkmated!
+Chess Rules
+What are the 3 ways to end in a draw?
+Stalemate, Checkmate, Resign
+Stalemate, Perpetual Check, Not enough force
+Stalemate, Capturing Both Kings, Capturing all Queens
+Stalemate, checkmate, perpetual check
+2
+Stalemate is the end of a game because no legal moves can be made; perpetual check is just repeated check, and not enough force of 5 on the board ends in draw.
+What is the maximum number of queens a player can have?
+Chess Misc.
+(9 queens)
+(3 queens)
+(8 queens)
+(7 queens)
+1
+If all pawns are promoted to queens, there would be 8 + the original queen= 9 total
+Chess Rules
+What happens to a pawn that reaches the other side.
